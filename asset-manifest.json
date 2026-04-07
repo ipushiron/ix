@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://ipushiron.github.io/ix/static/css/main.6f7e447d.chunk.css",
+    "main.js": "https://ipushiron.github.io/ix/static/js/main.2de76d5e.chunk.js",
+    "runtime-main.js": "https://ipushiron.github.io/ix/static/js/runtime-main.11b4305e.js",
+    "static/js/2.5de4b5f7.chunk.js": "https://ipushiron.github.io/ix/static/js/2.5de4b5f7.chunk.js",
+    "index.html": "https://ipushiron.github.io/ix/index.html",
+    "static/js/2.5de4b5f7.chunk.js.LICENSE.txt": "https://ipushiron.github.io/ix/static/js/2.5de4b5f7.chunk.js.LICENSE.txt",
+    "static/media/index.module.scss": "https://ipushiron.github.io/ix/static/media/loader-bg.ad88e0b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11b4305e.js",
+    "static/js/2.5de4b5f7.chunk.js",
+    "static/css/main.6f7e447d.chunk.css",
+    "static/js/main.2de76d5e.chunk.js"
+  ]
+}
